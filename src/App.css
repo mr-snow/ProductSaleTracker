@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+}
+.demo-logo{
+    color:white;;
+}
+.Header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}

@@ -1,0 +1,19 @@
+.formDiv{
+    background-color:inherit;
+    box-shadow: 1px 1px 10px 1px rgba(31, 131, 31, 0.631);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin:100px auto;
+    width: fit-content;
+    padding:50px 100px 0px 0px;
+   
+    
+}
+.headtag{
+    position: absolute;
+    top:100px;
+    left:100px;
+    color:rgba(0, 0, 0, 0.996);
+}
